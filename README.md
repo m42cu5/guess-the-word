@@ -1,1 +1,6 @@
 # word-guess.py
+A simple word guessing game inspired by the famous Hangman game. 
+
+Guess the randomly selected word by entering individual letters or whole words. If the word contains the entered letter, it will reveal itself in all its positions. No clues are returned for whole word guesses. The total number of guesses will be returned in the end together with the right word. 
+
+The purpose of the application is for me to familiarize myself with the language.
